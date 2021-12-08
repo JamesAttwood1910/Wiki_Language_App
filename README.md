@@ -3,6 +3,7 @@ An application for language learning utilizing wikipedia articles and NLP to cre
 
 # Additional project goals: 
 
+* Extract images from HTML
 * Identify key words (verbs, adjectives, nouns) in text. 
 * Question generation (open ended and multiple choice) 
 * Chat bot 
