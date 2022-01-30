@@ -1,0 +1,56 @@
+(base) Jamess-MacBook-Air-2:Wiki_Summary jamesattwood$ python main_.py
+Search query: rugby
+How many photos? 4
+Choose your folder name: rugby
+[%] Downloading Images to /Users/jamesattwood/Documents/Wiki_Summary/rugby/rugby
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 4 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://media.defense.gov/2008/Jun/14/2000608441/-1/-1/0/080605-F-1322C-001.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://d2pnysrn2evbzq.cloudfront.net/rugbycomau-media/200303 Paisami NRC.jpg
+[!] Issue getting: https://d2pnysrn2evbzq.cloudfront.net/rugbycomau-media/200303 Paisami NRC.jpg
+[!] Error:: URL can't contain control characters. '/rugbycomau-media/200303 Paisami NRC.jpg' (found at least ' ')
+[%] Downloading Image #2 from https://www.theblindside.co.uk/wp-content/uploads/2020/03/ABs.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://s1.r29static.com/bin/entry/f77/0,570,2400,1260/x,80/1766665/image.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 35 Images on Page 2.
+
+===============================================
+
+[%] Downloading Image #4 from https://d2pnysrn2evbzq.cloudfront.net/rugbycomau-media/200303 Paisami NRC.jpg
+[!] Issue getting: https://d2pnysrn2evbzq.cloudfront.net/rugbycomau-media/200303 Paisami NRC.jpg
+[!] Error:: URL can't contain control characters. '/rugbycomau-media/200303 Paisami NRC.jpg' (found at least ' ')
+[%] Downloading Image #4 from https://rugbyroar.com/wp-content/uploads/2021/03/pexels-patrick-case-3413645-scaled.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 4 images.
+===============================================
+
+Please show your support here
+https://www.buymeacoffee.com/gurugaurav
+
+===============================================
+
+Photos saved in rugby / rugby
+
+
+
+
+Choose your wikipedia article:https://en.wikipedia.org/wiki/Rugby_union
+What vocabulary would you like to practice? nouns
