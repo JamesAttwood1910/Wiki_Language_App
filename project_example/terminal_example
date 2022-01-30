@@ -1,0 +1,45 @@
+(base) Jamess-MacBook-Air-2:Wiki_Summary jamesattwood$ python word2.py
+Search query: wildlife
+How many photos? 5
+Choose your folder name: wildlife
+[%] Downloading Images to /Users/jamesattwood/Documents/Wiki_Summary/wildlife/wildlife
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 5 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://www.craigjoneswildlifephotography.co.uk/blog/wp-content/uploads/2017/07/CMJ3982-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://i.pinimg.com/originals/36/a0/a8/36a0a85dc40976113f21ea133a506798.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://www.truewildlife.org/wp-content/uploads/2019/05/Rhino-True-Wildlife-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://whyevolutionistrue.com/wp-content/uploads/2020/10/elk2.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://whyevolutionistrue.com/wp-content/uploads/2020/10/e2.jpeg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 5 images.
+===============================================
+
+Please show your support here
+https://www.buymeacoffee.com/gurugaurav
+
+===============================================
+
+Photos saved in wildlife / wildlife
+
+
+
+Choose your wikipedia article:https://en.wikipedia.org/wiki/National_parks_of_the_United_Kingdom
+What vocabulary would you like to practice? verbs
+(base) Jamess-MacBook-Air-2:Wiki_Summary jamesattwood$ 
